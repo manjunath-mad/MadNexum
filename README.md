@@ -27,5 +27,6 @@ Mumbai Hacks 2025 Hackathon
 ## 🚀 How to Run
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/madnexum.git
+   git clone https://github.com/manjunath-mad/madnexum.git
+
 
