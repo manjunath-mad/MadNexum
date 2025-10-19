@@ -14,6 +14,8 @@ MadNexum helps students generate **personalized 4-step roadmaps** based on their
 Mumbai Hacks 2025 Hackathon
 
 ## 🎥 Demo Video
+PPT:https://youtu.be/yc-4BCJcevI
+SHORT VIDEO:
 [Watch Here](https://youtube.com/shorts/-L9JtU2T964?si=7YhLPmFAxqwr9UUU)
 ## 📂 Docs
 - `/docs` — contains screenshots, slides, and guides.
@@ -28,5 +30,6 @@ Mumbai Hacks 2025 Hackathon
 1. Clone the repo:  
    ```bash
    git clone https://github.com/manjunath-mad/madnexum.git
+
 
 
